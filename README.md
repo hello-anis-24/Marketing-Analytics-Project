@@ -190,9 +190,9 @@ The Overview page provides a high-level summary of marketing performance, includ
 - Monthly rating trend
 - Product-level rating performance
 
-### 2. Customer Review Details
+### 2. Conversion Details
 
-![Customer Review Details](images/02_Customer_Review_Details.jpg)
+![ Conversion_Details](images/02_Customer_Review_Details.jpg)
 
 This page focuses on customer feedback and sentiment analysis.
 
@@ -227,9 +227,9 @@ It includes:
 - Product views by month
 - Product-level engagement trends
 
-### 4. Conversion Details
+### 4. Customer Review Details
 
-![Conversion Details](images/04_Conversion_Details.jpg)
+![Customer_Review_Details](images/04_Conversion_Details.jpg)
 
 This page analyzes customer journey and conversion performance.
 
