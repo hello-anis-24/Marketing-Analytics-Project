@@ -1,0 +1,10 @@
+Tools & Technologies Used
+
+- Microsoft SQL Server
+- SQL
+- Python
+- Pandas
+- PyODBC
+- NLTK VADER Sentiment Analysis
+- Microsoft Power BI
+- DAX
